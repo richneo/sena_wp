@@ -5,6 +5,7 @@
  *
  * @package WordPress
  * test_rich
+ * test_rich2
  */
 
 /**
